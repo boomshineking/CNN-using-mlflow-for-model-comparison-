@@ -1,6 +1,6 @@
 
 # CIFAR-10 Image Classification with CNN
-
+                    '''Please do note i have not upload all the parts of project structure as most of it is generated during work once you run test.py you will generate mlruns and artifact'''
 This repository contains a complete pipeline for training, evaluating, and deploying a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. It includes data preprocessing, model training with MLflow tracking, and a Gradio web app for interactive inference.
 
 ---
@@ -13,11 +13,11 @@ This repository contains a complete pipeline for training, evaluating, and deplo
 ├── train.py                # Model training script with MLflow tracking
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
-├── .env                    # Environment variables (optional)
+├── .env                    # Environment variables was just for my own experimentation no need for it 
 ├── configs/                # Configuration files (e.g., default.yaml)
-├── data/
+├── data/                   # Could not upload data folder due to size of the file too long to upload
 │   ├── raw/                # Raw CIFAR-10 data
-│   └── processed/          # Processed data (if applicable)
+│   └── processed/          # Processed data (if applicable for experimentation)
 ├── mlruns/                 # MLflow experiment tracking logs and models
 ├── notebooks/              # Jupyter notebooks for exploration
 ├── src/
