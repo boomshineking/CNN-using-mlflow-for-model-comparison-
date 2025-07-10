@@ -100,7 +100,7 @@ python app_gradio.py
 
 <img width="1869" height="922" alt="Screenshot 2025-07-10 004305" src="https://github.com/user-attachments/assets/96a2f038-8e34-47b1-b0f2-7bda03a53f38" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-07-10 003234" src="https://github.com/user-attachments/assets/a01e569d-f115-44ec-a737-fac4e0bfce01" 
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 003234" src="https://github.com/user-attachments/assets/a01e569d-f115-44ec-a737-fac4e0bfce01" />
   
 <img width="1869" height="922" alt="mlflowcharts" src="https://github.com/user-attachments/assets/2a30c9f2-9c6b-4381-8d9c-61a4f0b6c503" />
 
