@@ -1,22 +1,4 @@
-boomshineking: CAN you see the entire root folder of cnn ? 
 
-GitHub Copilot: No, I can't see the entire root folder of the cnn project. I can only access files you share directly or reference in your questions. If you want me to review or modify other files, please upload or specify them.
-
-boomshineking: based on the entire root folder of cnn can you create me a good readme.md file 
-
-Workspace: 
-
-boomshineking: can you give me a proper readme.md file for git hub please 
-
-Workspace: Sure, here's a proposed directory structure for a CNN project app:
-
-
-
-Create Workspace...
-
-boomshineking: no i meant text for README.md 
-
-Workspace: Collecting workspace informationFiltering to most relevant information```markdown
 # CIFAR-10 Image Classification with CNN
 
 This repository contains a complete pipeline for training, evaluating, and deploying a Convolutional Neural Network (CNN) on the CIFAR-10 dataset. It includes data preprocessing, model training with MLflow tracking, and a Gradio web app for interactive inference.
